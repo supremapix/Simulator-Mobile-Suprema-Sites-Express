@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Navegação Mobile",
+  "description": "Simulador de navegação em celulares topo de linha para comparar interfaces, tempo de carregamento de URLs e desempenho de hardware sob teste de estresse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
